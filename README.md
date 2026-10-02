@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Header animado -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:8B0000,100:000000&height=180&section=header&text=Bl4ck_H4ck&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0000,50:8B0000,100:000000&height=180&section=header&text=Gonzalo+Delgado&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=35" width="100%"/>
 
 <br>
 
