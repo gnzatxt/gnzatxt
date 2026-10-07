@@ -43,9 +43,10 @@
 -  Goal: to keep improving and document my progress
 
 ---
-## Education & certifications
+### Education & certifications
 
 <!-- brain:education:start -->
+- **Introduction to Cybersecurity (CISCO)**
 - **Omada Certified Network Administrator (OCNA)**
 - **Postgraduate Diploma in Security**, Universidad Gaston Dachary - completed Dec. 2024.
 - **Technician in Electromechanical Equipment and Installations**, Escuela Provincial de Educacion Técnica Nº1 - completed Dec. 2023
@@ -54,7 +55,6 @@
 
 ----
 ### 🛠️ Technical Toolkit
----
 I use these technologies on a day-to-day basis for the detection, automation and analysis of malware.
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -65,12 +65,6 @@ I use these technologies on a day-to-day basis for the detection, automation and
   <img src="https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/mitreatt&ck-F05032?style=for-the-badge&logo=mitreatt&ck&logoColor=white"/>
-</p>
-
----
-### Linux, containers, and networking
-
-<p>
   <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" alt="Debian" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
@@ -80,6 +74,15 @@ I use these technologies on a day-to-day basis for the detection, automation and
   <img src="https://img.shields.io/badge/TCP%2FIP-1F6FEB?style=for-the-badge" alt="TCP IP networking" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
+
+---
+
+### My stack
+<div align="center">
+<img src="https://skillicons.dev/icons?i=java,html,aws,kali,arch,python,bash,git,github,docker,redhat,mysql,vim,neovim&perline=7" alt="tech stack">
+
+</div>
+
 
 ---
 ### 📊 GitHub Stats
